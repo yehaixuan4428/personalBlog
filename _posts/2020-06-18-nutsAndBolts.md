@@ -1,4 +1,4 @@
-# Nuts and bolts problem.
+# Nuts and bolts problem
 
 Problem statement: Given a set of n nuts of different sizes and n bolts of different sizes. There is a one-one mapping between nuts and bolts. Match nuts and bolts efficiently.
 
